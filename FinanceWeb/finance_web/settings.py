@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'django_finance_db'
     }
 }
-ALLOWED_HOSTS = ['finance-frontend-django.herokuapp.com/']
+# ALLOWED_HOSTS = ['finance-frontend-django.herokuapp.com/']
 
 # MONGODB_DATABASES = {
 #     "default": {
@@ -134,7 +134,7 @@ STATICFILES_DIRS = (
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
-PROJECT_ROOT   =   os.path.join(os.path.abspath(__file__))
-STATIC_ROOT  =   os.path.join(PROJECT_ROOT, 'staticfiles')
+# PROJECT_ROOT   =   os.path.join(os.path.abspath(__file__))
+# STATIC_ROOT  =   os.path.join(PROJECT_ROOT, 'staticfiles')
 STATIC_URL = '/static/'
 
