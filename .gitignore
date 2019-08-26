@@ -4,4 +4,4 @@ Main_venv
 .DS_Store
 .idea/
 to_do_list.txt
-*.pyc
+**.pyc
