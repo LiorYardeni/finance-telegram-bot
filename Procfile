@@ -1,1 +1,1 @@
-web: gunicorn finance_web.wsgi --log-file -
+web: gunicorn herukoapp.wsgi --log-file -

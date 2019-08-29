@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'finance_web.wsgi.application'
+WSGI_APPLICATION = 'herokuapp.wsgi.application'
 
 DATABASES = {
     'default': {
