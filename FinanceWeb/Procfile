@@ -1,1 +1,1 @@
-web: gunicorn finence_web.wsgi --log-file -78
+web: gunicorn herokuapp.wsgi --log-file -78
