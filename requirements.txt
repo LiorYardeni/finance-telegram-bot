@@ -1,5 +1,5 @@
 dataclasses==0.6
-Django==2.2.4
+Django==2.2.8
 djongo==1.2.33
 gunicorn==19.9.0
 mongoengine==0.18.2
